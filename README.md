@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igoen
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning typescript, vue, node, flutter, react.
+- 🌱 I’m currently learning typescript, vue, node, react.
 - 💞️ I’m looking to collaborate on creating blogging frameworks using flat-file wrap in vue.
 - 📫 How to reach me me@igoen.com
 
